@@ -20,8 +20,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/first-time-using-css-grid-singlepricegridcomponentmaster-qIvLCIG5Ur)
+- Live Site URL: [Live site with github](https://unl00ky.github.io/single-price-grid-challenge/)
 
 ## My process
 
